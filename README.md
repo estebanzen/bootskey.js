@@ -16,4 +16,17 @@ Your HTML source should look similar to the following code:
 ...
 </head>
 
+<body>
+
+    <input type="text" class="keywords" />
+
+</body>
+
+<script type="text/javascript">
+	//	Initialize:
+
+	$('.keywords').keyboost();
+
+</script>
+
 Demos, API, and more at: http://www.E-Zero.com.ar
